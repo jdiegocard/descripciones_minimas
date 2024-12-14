@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DescripcionesMinimasApplication<descripciones_minimas>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.descripciones_minimas.DescripcionesMinimasApplication",
+            "projectName": "descripciones_minimas",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
